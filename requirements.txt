@@ -1,0 +1,7 @@
+pymongo
+python-dotenv
+streamlit-image-select
+st-clickable-images
+streamlit_carousel
+fireworks
+fireworks-ai
