@@ -7,6 +7,11 @@ uri="<<MONGODB_URI>>"
 FIREWORK_API_KEY='<<FIREWORK_API_KEY>>'
 ```
 This demo is based on [Sample Mflix Dataset](https://www.mongodb.com/docs/atlas/sample-data/sample-mflix/) 
+Software version used for testing
+```
+Python 3.13.3
+Streamlit, version 1.45.0
+```
 
 3. create watched movies list for users - `add_movies_users.py`
 4. add demographic information to users - `add_demographics_users.py`
